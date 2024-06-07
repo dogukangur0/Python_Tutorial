@@ -1,0 +1,15 @@
+pythonda method ve fonksiyon aynı amaçla kullanılıyor ama kullanılış yerleri farklı.
+
+method nedir ?
+
+mesela bir list oluşturduk.
+list = [1,2,3]
+list.append() bir method. 
+python kütüphanesinde bulunan list sınıfının bir öğesi.
+
+ class -> bünyesinde birçok method bulunduran bir yapı.
+
+ fonksiyon nedir ?
+
+fonksiyonlar class içerisinde tanımlanmaz.
+belli amaçlara yönelik olan, önceden oluşturulmuş kod blokları.

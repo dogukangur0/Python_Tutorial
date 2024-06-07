@@ -1,0 +1,27 @@
+value types 
+x = 10
+y = 20
+x = y
+
+y = 30
+
+print(x,y) 20 30
+
+not -> bütün liste tipleri refence type
+ adres olarak bellek üzerinde saklanırlar.
+ değerleri de farklı alanda saklanır.
+
+reference type 
+a = ["elma","armut"]
+b = ["protakal","üzüm"]
+
+ a = b denildiğinde b'nin adresini a'ya eşitlemiş oluruz. adres kopyalandı 
+
+ a ve b bir kap gibi düşün içerisinde de veriler var
+ a = b dediğimizde a kabı atılır.
+
+
+ ////////////
+
+ listA[10,20]
+ listB = listA.copy()  verileri ata ancak başka listB başka bir adreste bulunan bir kap olarak kalmaya devam etsin.

@@ -1,0 +1,5 @@
+eğer bir set kullanacaksak listeyi indexleyemeyiz.
+sıralanamaz
+liste elemanları güncellenemez
+elemanlar tekrarlanamaz
+eleman eklenebilir ve silinebilir
